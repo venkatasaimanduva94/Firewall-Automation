@@ -1,3 +1,4 @@
+
 ---
 - name: get facts
   hosts: junos
